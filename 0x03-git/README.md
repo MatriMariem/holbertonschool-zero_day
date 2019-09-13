@@ -1,1 +1,1 @@
-*Time for git*
+*Time for git and github*
